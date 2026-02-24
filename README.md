@@ -1,3 +1,3 @@
 # jaishree
 This is my first git repo.
-Auther - Rajinder K
+<br>Author - Rajinder K
